@@ -2,3 +2,9 @@
     width: 400px;
     height: auto;
 }
+
+h1
+{
+    color: brown;
+    background-color: burlywood;
+}
